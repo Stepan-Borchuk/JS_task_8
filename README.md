@@ -26,6 +26,17 @@ npm ci
 npm run dev
 ```
 
+    // "@vimeo/player": "^2.16.4",
+    // "handlebars": "^4.7.7",
+    // "lodash.throttle": "^4.1.1",
+    // "npm": "^8.8.0",
+    // "parcel-bundler": "^1.12.5",
+    // "parcel-plugin-handlebars-precompile": "^1.0.2",
+    // "parcel-plugin-nuke-dist": "^1.0.1",
+    // "posthtml-include": "^1.7.3",
+    // "sass": "^1.51.0",
+    // "simplelightbox": "^2.10.3"
+
 Во вкладке браузера перейти по адресу [http://localhost:1234](http://localhost:1234).
 
 ### Деплой
