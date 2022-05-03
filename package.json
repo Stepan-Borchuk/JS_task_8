@@ -6,11 +6,11 @@
   "homepage": "https://stepan-borchuk.github.io/JS_task_8",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /JS_task_8/"
+    "build": "parcel build src/*.html --public-url /JS_task_8"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Stepan-Borchuk/JS_task_8"
+    "url": "git+https://github.com/Stepan-Borchuk/JS_task_8.git"
   },
   "keywords": [],
   "author": "Stepan Borchuk <sb-if@hotmail.com>",
