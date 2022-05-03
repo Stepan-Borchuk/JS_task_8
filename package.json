@@ -10,13 +10,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/stepan-borchuk/JS_task_8.git"
+    "url": "git+https://github.com/Stepan-Borchuk/JS_task_8.git"
   },
   "keywords": [],
   "author": "Stepan Borchuk <sb-if@hotmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/stepan-borchuk/JS_task_8/issues"
+    "url": "https://github.com/Stepan-Borchuk/JS_task_8/issues"
   },
   "dependencies": {
     "@vimeo/player": "^2.16.4",
