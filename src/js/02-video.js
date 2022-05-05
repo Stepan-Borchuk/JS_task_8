@@ -19,3 +19,6 @@ const pageInit = () => {
 addEventListener('DOMContentLoaded', () => {
     pageInit();
 })
+
+
+
